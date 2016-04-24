@@ -1,0 +1,3 @@
+This is a list of where we got assets from, since assets make things easier.
+
+https://mockupstogo.mybalsamiq.com/projects/android/Android%20Controls
